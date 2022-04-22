@@ -1,0 +1,12 @@
+.content{
+    position:fixed;
+    right: 0;
+    color:blue;
+    font-size: large;
+    display: inline-block;
+    margin: 20px 10px;
+    width: 35%;
+    height : 57%;
+   
+    
+}
