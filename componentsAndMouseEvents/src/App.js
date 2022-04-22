@@ -1,5 +1,5 @@
 
-import './App.css';
+import './App.css'; 
 import './Header.js';
 import './Footer.js';
 import './Gallery';
