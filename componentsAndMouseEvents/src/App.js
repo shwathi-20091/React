@@ -5,8 +5,7 @@ import './Footer.js';
 import './Gallery';
 import './Sidecontent';
 import './Content';
-import Header from './Header.js';
-import Footer from './Footer.js';
+
 import Gallery from './Gallery.js';
 import Sidecontent from './Sidecontent.js';
 import Content from './Content.js';
