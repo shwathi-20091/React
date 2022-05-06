@@ -24,7 +24,7 @@ const elementReducer = (state = initialState, action) => {
         element.textContent = "";
       });
       return {
-        state,
+        ...state,
         value: document.getElementById("name").value
       };
   } else {
